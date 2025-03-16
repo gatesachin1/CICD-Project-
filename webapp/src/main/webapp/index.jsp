@@ -1,6 +1,6 @@
 <html>
-  <head><title>Sevenmentor</title></head>
+  <head><title>Welcome</title></head>
   <body bgcolor=skyyellow>
-    <h1> DevOps, Welcome to Seven Mentor Pune DevOps 2024 Batch at 11AM!!! </h1>
+    <h1> DevOps, This project is developed by SACHIN GATE !!! </h1>
   </body>
 </html>
