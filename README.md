@@ -1,3 +1,3 @@
-# maven-project
+# CICD-project
 
-Simple Maven Project
+Simple CICD Project
